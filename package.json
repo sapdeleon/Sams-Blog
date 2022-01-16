@@ -1,0 +1,20 @@
+{
+  "name": "sams-blog",
+  "version": "1.0.0",
+  "description": "Sams Blog in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapdeleon"
+  },
+  "author": "Samuel de Leon",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
